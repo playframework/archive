@@ -1,4 +1,4 @@
-# The Play Archive
+# The Play Framework Archive
 
 This repository serves as an archive for historical Play Framework releases and related artifacts.
 
